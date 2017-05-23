@@ -3,6 +3,7 @@ package ru.sbt.qa.customLanguage.syntaxHiglighting;
 import com.intellij.psi.tree.IElementType;
 import com.intellij.psi.tree.IFileElementType;
 import com.intellij.psi.tree.TokenSet;
+import ru.sbt.qa.customLanguage.registeringFileType.GherkinLanguage;
 
 /**
  * @author yole

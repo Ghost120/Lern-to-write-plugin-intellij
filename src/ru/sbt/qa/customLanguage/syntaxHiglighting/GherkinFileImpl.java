@@ -8,6 +8,7 @@ import com.intellij.psi.PsiElement;
 import com.intellij.psi.TokenType;
 import org.jetbrains.annotations.NotNull;
 import ru.sbt.qa.customLanguage.registeringFileType.GherkinFileType;
+import ru.sbt.qa.customLanguage.registeringFileType.GherkinLanguage;
 
 import java.util.ArrayList;
 import java.util.List;

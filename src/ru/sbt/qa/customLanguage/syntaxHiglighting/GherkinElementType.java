@@ -3,6 +3,7 @@ package ru.sbt.qa.customLanguage.syntaxHiglighting;
 import com.intellij.psi.tree.IElementType;
 import org.jetbrains.annotations.NonNls;
 import org.jetbrains.annotations.NotNull;
+import ru.sbt.qa.customLanguage.registeringFileType.GherkinLanguage;
 
 /**
  * @author yole

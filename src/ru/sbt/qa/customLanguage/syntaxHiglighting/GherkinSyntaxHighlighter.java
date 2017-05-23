@@ -10,6 +10,8 @@ import org.jetbrains.annotations.NotNull;
 import java.util.HashMap;
 import java.util.Map;
 
+import static ru.sbt.qa.customLanguage.syntaxHiglighting.GherkinTokenTypes.*;
+
 /**
  * Created Kasyanenko Konstantin
  * on 22.05.2017

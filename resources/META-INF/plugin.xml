@@ -31,8 +31,8 @@
   <extensions defaultExtensionNs="com.intellij">
     <!--Регистрируем язык-->
     <fileTypeFactory implementation="ru.sbt.qa.customLanguage.registeringFileType.CucumberFileTypeFactory"/>
-    <lang.syntaxHighlighterFactory language="Gherkin"
-                                   implementationClass="org.jetbrains.plugins.cucumber.psi.GherkinSyntaxHighlighterFactory"/>
+    <lang.syntaxHighlighterFactory language="Gherkin" implementationClass="ru.sbt.qa.customLanguage.syntaxHiglighting.GherkinSyntaxHighlighterFactory"/>
+
   </extensions>
 
   <actions>
